@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "id": "spidersproducewebs",
+  "version": "3.4",
+
+  "name": "Spiders Produce Webs",
+  "description": "Spiders and cave spiders can periodically produce a web when a player is close.",
+  "authors": [ "Rick South" ],
+  "contact": {
+    "homepage": "https://serilum.com/mod/spiders-produce-webs",
+    "sources": "https://github.com/Serilum/Spiders-Produce-Webs",
+    "issues": "https://github.com/Serilum/.issue-tracker/labels/Mod:%20Spiders%20Produce%20Webs"
+  },
+
+  "license": "All Right Reserved",
+  "icon": "icon.png",
+
+  "environment": "*",
+  "entrypoints": { "main": [ "com.natamus.spidersproducewebs.ModFabric" ], "modmenu": [ "com.natamus.spidersproducewebs.fabric.config.IntegrateModMenu" ] },
+
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "fabric": "*",
+    "minecraft": ">=1.20",
+    "java": ">=21",
+    "collective": ">=7.54"
+  },
+
+  "custom": {
+    "modmenu": {
+      "links": {
+        "Donate <3" : "https://ricksouth.com/donate"
+      }
+    }
+  },
+
+  "contributors": [
+	  " ",
+	  "Thank you very much to my Membership sponsors for supporting the development of this mod!",
+	  " ",
+	  "If you would like to contribute too, check out https://serilum.com/donate.",
+	  " ",
+	  "Membership sponsors:",
+	  " Alister",
+	  " Andrean Olgo",
+	  " aternosorg",
+	  " BirdieMiner",
+	  " Cherriesaurus",
+	  " Jack",
+	  " Jeremy Langford",
+	  " Michael W. S.",
+	  " pepe1191",
+	  " Shana Gitnick",
+	  " Tyler Behl"
+  ]
+}
