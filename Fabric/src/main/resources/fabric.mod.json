@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "spidersproducewebs",
-  "version": "3.4",
+  "version": "3.5",
 
   "name": "Spiders Produce Webs",
   "description": "Spiders and cave spiders can periodically produce a web when a player is close.",
@@ -23,7 +23,7 @@
     "fabric": "*",
     "minecraft": ">=1.21",
     "java": ">=21",
-    "collective": ">=7.61"
+    "collective": ">=7.78"
   },
 
   "custom": {
@@ -44,11 +44,9 @@
 	  " Alister",
 	  " Andrean Olgo",
 	  " aternosorg",
-	  " BirdieMiner",
 	  " Cherriesaurus",
-	  " Jeremy Langford",
 	  " Michael W. S.",
-	  " Rare Students",
+	  " Nahuel Fernandez",
 	  " Shana Gitnick",
 	  " Tyler Behl"
   ]
