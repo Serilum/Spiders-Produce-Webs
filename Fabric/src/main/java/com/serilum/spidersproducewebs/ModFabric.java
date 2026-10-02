@@ -1,10 +1,10 @@
-package com.natamus.spidersproducewebs;
+package com.serilum.spidersproducewebs;
 
 import com.natamus.collective.check.RegisterMod;
 import com.natamus.collective.check.ShouldLoadCheck;
 import com.natamus.collective.fabric.callbacks.CollectivePlayerEvents;
-import com.natamus.spidersproducewebs.events.SpiderEvent;
-import com.natamus.spidersproducewebs.util.Reference;
+import com.serilum.spidersproducewebs.events.SpiderEvent;
+import com.serilum.spidersproducewebs.util.Reference;
 import net.fabricmc.api.ModInitializer;
 import net.minecraft.server.level.ServerLevel;
 import net.minecraft.server.level.ServerPlayer;
