@@ -1,10 +1,10 @@
-package com.natamus.spidersproducewebs;
+package com.serilum.spidersproducewebs;
 
 import com.natamus.collective.check.RegisterMod;
 import com.natamus.collective.check.ShouldLoadCheck;
-import com.natamus.spidersproducewebs.forge.config.IntegrateForgeConfig;
-import com.natamus.spidersproducewebs.forge.events.ForgeSpiderEvent;
-import com.natamus.spidersproducewebs.util.Reference;
+import com.serilum.spidersproducewebs.forge.config.IntegrateForgeConfig;
+import com.serilum.spidersproducewebs.forge.events.ForgeSpiderEvent;
+import com.serilum.spidersproducewebs.util.Reference;
 import net.minecraftforge.eventbus.api.bus.BusGroup;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.event.lifecycle.FMLLoadCompleteEvent;
@@ -30,7 +30,7 @@ public class ModForge {
 	}
 
 	private void loadComplete(final FMLLoadCompleteEvent event) {
-    	ForgeSpiderEvent.registerEventsInBus();
+		ForgeSpiderEvent.registerEventsInBus();
 	}
 
 	private static void setGlobalConstants() {

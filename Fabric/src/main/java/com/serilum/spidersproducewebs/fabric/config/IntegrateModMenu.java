@@ -1,7 +1,7 @@
-package com.natamus.spidersproducewebs.fabric.config;
+package com.serilum.spidersproducewebs.fabric.config;
 
 import com.natamus.collective.config.DuskConfig;
-import com.natamus.spidersproducewebs.util.Reference;
+import com.serilum.spidersproducewebs.util.Reference;
 import com.terraformersmc.modmenu.api.ConfigScreenFactory;
 import com.terraformersmc.modmenu.api.ModMenuApi;
 

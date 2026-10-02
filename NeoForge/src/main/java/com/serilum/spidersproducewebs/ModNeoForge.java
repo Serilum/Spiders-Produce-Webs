@@ -1,10 +1,10 @@
-package com.natamus.spidersproducewebs;
+package com.serilum.spidersproducewebs;
 
 import com.natamus.collective.check.RegisterMod;
 import com.natamus.collective.check.ShouldLoadCheck;
-import com.natamus.spidersproducewebs.neoforge.config.IntegrateNeoForgeConfig;
-import com.natamus.spidersproducewebs.neoforge.events.NeoForgeSpiderEvent;
-import com.natamus.spidersproducewebs.util.Reference;
+import com.serilum.spidersproducewebs.neoforge.config.IntegrateNeoForgeConfig;
+import com.serilum.spidersproducewebs.neoforge.events.NeoForgeSpiderEvent;
+import com.serilum.spidersproducewebs.util.Reference;
 import net.neoforged.neoforge.common.NeoForge;
 import net.neoforged.bus.api.IEventBus;
 import net.neoforged.fml.ModLoadingContext;
