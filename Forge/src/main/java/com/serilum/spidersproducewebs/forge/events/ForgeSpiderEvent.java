@@ -1,6 +1,6 @@
-package com.natamus.spidersproducewebs.forge.events;
+package com.serilum.spidersproducewebs.forge.events;
 
-import com.natamus.spidersproducewebs.events.SpiderEvent;
+import com.serilum.spidersproducewebs.events.SpiderEvent;
 import net.minecraft.server.level.ServerLevel;
 import net.minecraft.server.level.ServerPlayer;
 import net.minecraft.world.entity.player.Player;
