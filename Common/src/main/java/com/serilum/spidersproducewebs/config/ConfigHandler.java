@@ -1,7 +1,7 @@
-package com.natamus.spidersproducewebs.config;
+package com.serilum.spidersproducewebs.config;
 
 import com.natamus.collective.config.DuskConfig;
-import com.natamus.spidersproducewebs.util.Reference;
+import com.serilum.spidersproducewebs.util.Reference;
 
 import java.util.Arrays;
 import java.util.HashMap;

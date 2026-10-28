@@ -1,6 +1,6 @@
-package com.natamus.spidersproducewebs;
+package com.serilum.spidersproducewebs;
 
-import com.natamus.spidersproducewebs.config.ConfigHandler;
+import com.serilum.spidersproducewebs.config.ConfigHandler;
 
 public class ModCommon {
 

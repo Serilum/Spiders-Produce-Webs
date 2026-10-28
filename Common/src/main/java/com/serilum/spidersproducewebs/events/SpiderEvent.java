@@ -1,6 +1,6 @@
-package com.natamus.spidersproducewebs.events;
+package com.serilum.spidersproducewebs.events;
 
-import com.natamus.spidersproducewebs.config.ConfigHandler;
+import com.serilum.spidersproducewebs.config.ConfigHandler;
 import net.minecraft.core.BlockPos;
 import net.minecraft.server.level.ServerLevel;
 import net.minecraft.server.level.ServerPlayer;
